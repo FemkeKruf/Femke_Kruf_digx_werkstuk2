@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  Werkstuk2
+
+  Created by student on 03/06/2018.
+  Copyright © 2018 student. All rights reserved.
+*/
+"s after refresh"="s after refresh";
+"name"="name";
+"number"="number";
+"address"="address";
+"status"="status";
+"available stands"="available stands";
+"available bikes"="available bikes";
+"stands"="stands";
+"bonus"="bonus";
+"banking"="banking";
+"OK"="OK";
+"NO"="NO";
